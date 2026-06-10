@@ -1,0 +1,43 @@
+.success{
+    padding: 5px;
+    margin: 10px;
+    width: 70px;
+    font-weight: bold;
+    background-color: rgb(27, 242, 27);
+    border-radius: 6px 
+}
+
+.primary{
+    padding: 5px;
+    margin: 10px;
+    width: 70px;
+    font-weight: bold;
+    background-color: skyblue;
+    border-radius: 6px 
+}
+
+.danger{
+    padding: 5px;
+    margin: 10px;
+    width: 70px;
+    font-weight: bold;
+    background-color: red;
+    border-radius: 6px 
+}
+.warning{
+    padding: 5px;
+    margin: 10px;
+    width: 70px;
+    font-weight: bold;
+    background-color: yellow;
+    border-radius: 6px 
+}
+.simple{
+    padding: 5px;
+    margin: 10px;
+    width: 70px;
+    font-weight: bold;
+    background-color: rgb(211, 146, 229);
+    border-radius: 6px 
+}
+
