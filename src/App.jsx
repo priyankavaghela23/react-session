@@ -5,6 +5,7 @@ import ToggleMode from "./component/Toggle/ToggleMode";
 import { useState } from "react";
 import "./style/togglemode.css";
 import { UseRefEx1 } from "./component/UseRefEx.jsx/UseRefEX1";
+import Counter from "./component/Counter";
 
 function App() {
   const [darkMode, setDarkMode] = useState(false);
@@ -16,10 +17,11 @@ function App() {
       {/* <ToggleMode/> */}
 
       <div>
-        <h1>React - Session</h1>
+        {/* <h1>React - Session</h1> */}
         {/* <StudentParent  /> */}
         {/* <ButtonParent/> */}
-        <UseRefEx1/>
+        {/* <UseRefEx1/> */}
+      <Counter />
         <br /> <br />
       </div>
     </>
